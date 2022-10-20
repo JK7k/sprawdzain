@@ -22,4 +22,4 @@
 	?>
 
 
-<!-- Jan Kupczyk -->
+<!-- Kacper Jaworowski -->
